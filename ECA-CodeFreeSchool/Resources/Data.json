@@ -1,0 +1,506 @@
+[
+    {
+        "courseId" : 101,
+        "courseName" : "Beginner Python",
+        "description" : "This course is an introductory module to programming in Python Programming Language. This course introduces how humans can instruct computers to perform tasks and computations by writing programs using a programming language. Students will learn the structure of a program and how to write statements that contain constructs such as variables, expressions, selection and iteration to express the computation logic. Students will also learn how to use the Input/Output (I/O) library of a programming language to read from and write to files on computer disks for storage and other peripheral devices for display. Data structures to keep information in the working memory of the computer, including one called an object, will also be presented with the explanation of how they facilitate the organization of information and computation.",
+        "difficulty" : "Beginner",
+        "courseType" : "Python",
+        "popular" : false,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Nice Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Love this Course"
+            }
+        ]
+    },
+    {
+        "courseId" : 102,
+        "courseName" : "Beginner Java",
+        "description" : "This course is an introductory module to programming in Java Programming Language. This course introduces how humans can instruct computers to perform tasks and computations by writing programs using a programming language. Students will learn the structure of a program and how to write statements that contain constructs such as variables, expressions, selection and iteration to express the computation logic. Students will also learn how to use the Input/Output (I/O) library of a programming language to read from and write to files on computer disks for storage and other peripheral devices for display. Data structures to keep information in the working memory of the computer, including one called an object, will also be presented with the explanation of how they facilitate the organization of information and computation.",
+        "difficulty" : "Beginner",
+        "courseType" : "Java",
+        "popular" : false,
+        "reviews" : [
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            }
+        ]
+    },
+    {
+        "courseId" : 103,
+        "courseName" : "Beginner Swift",
+        "description" : "This course is an introductory module to programming in Swift Programming Language. This course introduces how humans can instruct computers to perform tasks and computations by writing programs using a programming language. Students will learn the structure of a program and how to write statements that contain constructs such as variables, expressions, selection and iteration to express the computation logic. Students will also learn how to use the Input/Output (I/O) library of a programming language to read from and write to files on computer disks for storage and other peripheral devices for display. Data structures to keep information in the working memory of the computer, including one called an object, will also be presented with the explanation of how they facilitate the organization of information and computation.",
+        "difficulty" : "Beginner",
+        "courseType" : "Swift",
+        "popular" : false,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt Alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 104,
+        "courseName" : "Intermediate Python",
+        "description" : "This course is an intermediate module to programming in Python Programming Language. This course introduces how humans can instruct computers to perform tasks and computations by writing programs using a programming language. Students will learn the structure of a program and how to write statements that contain constructs such as variables, expressions, selection and iteration to express the computation logic. Students will also learn how to use the Input/Output (I/O) library of a programming language to read from and write to files on computer disks for storage and other peripheral devices for display. Data structures to keep information in the working memory of the computer, including one called an object, will also be presented with the explanation of how they facilitate the organization of information and computation.",
+        "difficulty" : "Intermediate",
+        "courseType" : "Python",
+        "popular" : false,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 105,
+        "courseName" : "Intermediate Java",
+        "description" : "This course is an intermediate module to programming in Java Programming Language. This course introduces how humans can instruct computers to perform tasks and computations by writing programs using a programming language. Students will learn the structure of a program and how to write statements that contain constructs such as variables, expressions, selection and iteration to express the computation logic. Students will also learn how to use the Input/Output (I/O) library of a programming language to read from and write to files on computer disks for storage and other peripheral devices for display. Data structures to keep information in the working memory of the computer, including one called an object, will also be presented with the explanation of how they facilitate the organization of information and computation.",
+        "difficulty" : "Intermediate",
+        "courseType" : "Java",
+        "popular" : false,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 106,
+        "courseName" : "Intermediate Swift",
+        "description" : "This course is an intermediate module to programming in Swift Programming Language. This course introduces how humans can instruct computers to perform tasks and computations by writing programs using a programming language. Students will learn the structure of a program and how to write statements that contain constructs such as variables, expressions, selection and iteration to express the computation logic. Students will also learn how to use the Input/Output (I/O) library of a programming language to read from and write to files on computer disks for storage and other peripheral devices for display. Data structures to keep information in the working memory of the computer, including one called an object, will also be presented with the explanation of how they facilitate the organization of information and computation.",
+        "difficulty" : "Intermediate",
+        "courseType" : "Swift",
+        "popular" : false,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 107,
+        "courseName" : "Advanced Python",
+        "description" : "This course is an advanced module to programming in Python Programming Language. This course introduces how humans can instruct computers to perform tasks and computations by writing programs using a programming language. Students will learn the structure of a program and how to write statements that contain constructs such as variables, expressions, selection and iteration to express the computation logic. Students will also learn how to use the Input/Output (I/O) library of a programming language to read from and write to files on computer disks for storage and other peripheral devices for display. Data structures to keep information in the working memory of the computer, including one called an object, will also be presented with the explanation of how they facilitate the organization of information and computation.",
+        "difficulty" : "Advanced",
+        "courseType" : "Python",
+        "popular" : false,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 108,
+        "courseName" : "Advanced Java",
+        "description" : "This course is an Advanced module to programming in Java Programming Language. This course introduces how humans can instruct computers to perform tasks and computations by writing programs using a programming language. Students will learn the structure of a program and how to write statements that contain constructs such as variables, expressions, selection and iteration to express the computation logic. Students will also learn how to use the Input/Output (I/O) library of a programming language to read from and write to files on computer disks for storage and other peripheral devices for display. Data structures to keep information in the working memory of the computer, including one called an object, will also be presented with the explanation of how they facilitate the organization of information and computation.",
+        "difficulty" : "Advanced",
+        "courseType" : "Java",
+        "popular" : false,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 109,
+        "courseName" : "Intermediate Swift",
+        "description" : "This course is an advanced module to programming in Swift Programming Language. This course introduces how humans can instruct computers to perform tasks and computations by writing programs using a programming language. Students will learn the structure of a program and how to write statements that contain constructs such as variables, expressions, selection and iteration to express the computation logic. Students will also learn how to use the Input/Output (I/O) library of a programming language to read from and write to files on computer disks for storage and other peripheral devices for display. Data structures to keep information in the working memory of the computer, including one called an object, will also be presented with the explanation of how they facilitate the organization of information and computation.",
+        "difficulty" : "Advanced",
+        "courseType" : "Swift",
+        "popular" : false,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 110,
+        "courseName" : "Data Structure & Algorithms I",
+        "description" : "This course will provide students with an understanding of the common algorithms and data structures used in information technology. The topics covered are of central importance for many applications in data analytics and information technology. The course gives a comprehensive introduction to algorithm analysis, basic data types such as stacks, queues and trees and how these data types are implemented with linked lists.",
+        "difficulty" : "Intermediate",
+        "courseType" : "DataStructure",
+        "popular" : true,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 111,
+        "courseName" : "Data Structure & Algorithms II",
+        "description" : "This course will provide students with an understanding of the common algorithms and data structures used in information technology. The topics covered are of central importance for many applications in data analytics and information technology. The course gives a comprehensive introduction to algorithm analysis, basic data types such as stacks, queues and trees and how these data types are implemented with linked lists.",
+        "difficulty" : "Intermediate",
+        "courseType" : "DataStructure",
+        "popular" : true,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 112,
+        "courseName" : "Data Analytics",
+        "description" : "Data Analysis introduces the graduate student to a range of methods for analyzing, interpreting and processing of experimental and computational data at graduate level as well as for the practicing scientists and engineers. This data analysis course focuses on the application of mathematical techniques with special emphasis on establishing relationships between investigated parameters.",
+        "difficulty" : "Beginner",
+        "courseType" : "DataAnalytics",
+        "popular" : true,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 113,
+        "courseName" : "Design Patterns",
+        "description" : "This course is an advanced module to design patterns in software engineering. The course introduces how humans can instruct computers to perform tasks and computations by writing programs using a programming language. Students will learn the structure of a program and how to write statements that contain constructs such as variables, expressions, selection and iteration to express the computation logic. Students will also learn how to use the Input/Output (I/O) library of a programming language to read from and write to files on computer disks for storage and other peripheral devices for display. Data structures to keep information in the working memory of the computer, including one called an object, will also be presented with the explanation of how they facilitate the organization of information and computation.",
+        "difficulty" : "Intermediate",
+        "courseType" : "DesignPattern",
+        "popular" : true,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 114,
+        "courseName" : "Web Application Development",
+        "description" : "This course introduces students to the basic building blocks of developing a website that can process and present information from various forms of data sources: forms, database and web services. Students will learn how to manage a sequence of requests so that information can be presented coherently. Students will also learn how to organize and represent the information in HTML Document Object Model (DOM) through Javascript programming using CSS templates. Certain information is best presented visually, so students will learn the basic ways to visualize information through social networks, tag clouds and geo-coding.",
+        "difficulty" : "Intermediate",
+        "courseType" : "WebApp",
+        "popular" : true,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 115,
+        "courseName" : "Android Application Development",
+        "description" : "Android Application Development covers the key principles, tools and basics of Android programming required to develop a mobile application. The course focuses on providing the students with an understanding of mobile technologies and mobile strategies in developing apps for small businesses and enterprises. Making an app location-aware can lead to better user contextual experience due to automated location tracking, activity recognition and geofencing. Students learn how to enhance an application by customising a map and using location-aware API in the mobile app. With the mobile app foundation acquired, students can create mobile apps for their smart solutions project. In the lab sessions, the students program using Android Studio Developer Tool (which is the de facto open-sourced Android Development platform).",
+        "difficulty" : "Intermediate",
+        "courseType" : "MobileApp",
+        "popular" : false,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 116,
+        "courseName" : "iOS Application Development",
+        "description" : "iOS Application Development aims to equip students with the ability to create mobile applications through the use of Xcode, a programming tool that is used for the development of native iOS applications. It covers concepts governing iOS developments as well as mobile fundamentals such as UI/UX design. Through using the Swift programming language, a modern programming language introduced by Apple in 2014, the students learn to develop applications that can run on iOS devices.",
+        "difficulty" : "Intermediate",
+        "courseType" : "MobileApp",
+        "popular" : true,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 117,
+        "courseName" : "Data Analytics II",
+        "description" : "Data Analysis introduces the graduate student to a range of methods for analyzing, interpreting and processing of experimental and computational data at graduate level as well as for the practicing scientists and engineers. This data analysis course focuses on the application of mathematical techniques with special emphasis on establishing relationships between investigated parameters.",
+        "difficulty" : "Intermediate",
+        "courseType" : "DataAnalytics",
+        "popular" : true,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 118,
+        "courseName" : "Machine Learning",
+        "description" : "Machine Learning introduces machine learning, covering both supervised and unsupervised algorithms. Bias-variance trade-off is discussed for selecting the appropriate models. Neural networks and convolutional neural networks are introduced. Students have the opportunity to deploy the algorithms and fine-tune the parameters. Students are required to develop and deploy a machine learning algorithm to solve a real-world challenge.",
+        "difficulty" : "Advanced",
+        "courseType" : "MachineLearning",
+        "popular" : true,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 119,
+        "courseName" : "Introduction to Artifical Intelligence",
+        "description" : "This course will provide students with an understanding of the common algorithms and data structures used in information technology. The topics covered are of central importance for many applications in data analytics and information technology. The course gives a comprehensive introduction to algorithm analysis, basic data types such as stacks, queues and trees and how these data types are implemented with linked lists.",
+        "difficulty" : "Intermediate",
+        "courseType" : "MachineLearning",
+        "popular" : true,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    },
+    {
+        "courseId" : 120,
+        "courseName" : "Intermediate developement in Artifical Intelligence",
+        "description" : "This course will provide students with an understanding of the common algorithms and data structures used in information technology. The topics covered are of central importance for many applications in data analytics and information technology. The course gives a comprehensive introduction to algorithm analysis, basic data types such as stacks, queues and trees and how these data types are implemented with linked lists.",
+        "difficulty" : "Intermediate",
+        "courseType" : "MachineLearning",
+        "popular" : false,
+        "reviews" : [
+            {   "reviewDate" : "09/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Super Good Course"
+            },
+            {   "reviewDate" : "09/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Fun Course"
+            },
+            {   "reviewDate" : "07/07/2021",
+                "reviewContent" : "SUPER GOOD COURSE!!!!",
+                "reviewSubject" : "Interesting Course"
+            },
+            {   "reviewDate" : "05/05/2021",
+                "reviewContent" : "I LOVE IT!!!!",
+                "reviewSubject" : "Learnt alot"
+            }
+        ]
+    }
+]
